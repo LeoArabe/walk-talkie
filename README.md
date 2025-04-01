@@ -1,2 +1,45 @@
-# walk-talkie
-Real-time anonymous audio chat to practice another language. MVP project focused on speaking and listening skills through random peer conversations.
+# English Audio Connect 🎧
+
+## 🌍 Practice Another Language through real-time audio chats
+
+This is an MVP project that allows users to connect anonymously to practice another language using only audio. No text. No video. Just speak and listen.
+
+---
+
+### 🚀 Tech Stack
+
+- Node.js + Express + Prisma
+- PostgreSQL (or SQLite for tests)
+- WebRTC + Socket.IO
+- React Native + Expo
+- Docker + GitHub Actions
+
+---
+
+### 📦 Project Status
+
+🚧 In early development. Currently setting up environment and core structure.
+
+---
+
+### 📅 Milestones
+
+- [ ] Setup Docker and DB
+- [ ] Backend base (API + Socket.IO)
+- [ ] Frontend prototype (Expo)
+- [ ] WebRTC basic audio connection
+- [ ] Feedback system
+- [ ] First real user test
+
+---
+
+### 📄 License
+
+MIT License – see `LICENSE` file.
+
+---
+
+### 👨‍💻 About
+
+This project is also an educational journey to apply modern web development practices and technologies. Contributions and feedback are welcome!
+
