@@ -31,4 +31,3 @@ MIT License – see `LICENSE` file.
 ### 👨‍💻 About
 
 This project is also an educational journey to apply modern web development practices and technologies. Contributions and feedback are welcome!
-

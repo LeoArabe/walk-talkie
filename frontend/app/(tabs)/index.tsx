@@ -1,22 +1,19 @@
-import { Text, View, StyleSheet } from 'react-native';
-
+import { Text, View, StyleSheet } from "react-native";
 
 export default function HomeScreen() {
   return (
     <View>
       <Text style={styles.title}>Hello World!</Text>
     </View>
-  )
-
+  );
 }
 
 const styles = StyleSheet.create({
-  titleContainer: {
-  },
+  titleContainer: {},
   title: {
-    color: '#ffffff',
+    color: "#ffffff",
     fontSize: 24,
-    fontWeight: 'bold',
+    fontWeight: "bold",
     margin: 55,
   },
 });

@@ -1,5 +1,5 @@
 {
-  "name": "walk-talkie",
+  "name": "walk-talkie-backend",
   "version": "1.0.0",
   "description": "This is an MVP project that allows users to connect anonymously to practice another language using only audio. No text. No video. Just speak and listen.",
   "main": "index.js",
