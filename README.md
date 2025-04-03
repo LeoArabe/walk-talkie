@@ -22,17 +22,6 @@ This is an MVP project that allows users to connect anonymously to practice anot
 
 ---
 
-### 📅 Milestones
-
-- [ ] Setup Docker and DB
-- [ ] Backend base (API + Socket.IO)
-- [ ] Frontend prototype (Expo)
-- [ ] WebRTC basic audio connection
-- [ ] Feedback system
-- [ ] First real user test
-
----
-
 ### 📄 License
 
 MIT License – see `LICENSE` file.
