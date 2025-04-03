@@ -24,7 +24,7 @@ This is an MVP project that allows users to connect anonymously to practice anot
 
 ### 📄 License
 
-MIT License – see `LICENSE` file.
+AGPL-3.0 License – see `LICENSE` file.
 
 ---
 
