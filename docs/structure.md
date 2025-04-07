@@ -46,3 +46,12 @@ walk-talkie/
 ├── LICENSE
 ├── README.md
 └── docker-compose.yml # Ambiente local com banco e backend
+
+Camada Benefício técnico
+app/models/ Foco em domínio e entidades
+app/services/ Clareza da lógica central sem misturar com controle HTTP
+app/controllers/ Orquestração entre entrada/saída e lógica de negócio
+infra/ Isola a infraestrutura (como DB, Redis, WebRTC...)
+tests/ Local claro para evolução de testes
+config/ Centraliza .env, conexões e variáveis
+docs/ Melhora a comunicação com quem entra no projeto
