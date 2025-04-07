@@ -1,21 +1,10 @@
 {
   "name": "walk-talkie-backend",
   "version": "1.0.0",
-  "description": "This is an MVP project that allows users to connect anonymously to practice another language using only audio. No text. No video. Just speak and listen.",
   "main": "index.js",
   "scripts": {
     "dev": "nodemon src/server.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/LeoArabe/walk-talkie.git"
-  },
-  "author": "Leandro Aragão",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/LeoArabe/walk-talkie/issues"
-  },
-  "homepage": "https://github.com/LeoArabe/walk-talkie#readme",
   "dependencies": {
     "dotenv": "^16.4.7",
     "express": "^5.1.0"
