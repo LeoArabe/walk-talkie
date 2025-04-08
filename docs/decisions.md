@@ -39,4 +39,11 @@ Este documento registra escolhas importantes para rastreabilidade futura.
 
 ---
 
+### 06 - Cobertura Minima de Testes
+
+**Aprovado**
+**Justificativa**: Cobertura mínima definida em 60% para garantir testes básicos e integridade minima do código.
+
+---
+
 > Este documento pode registrar até rollback de decisões no futuro.

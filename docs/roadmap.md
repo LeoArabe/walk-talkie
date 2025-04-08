@@ -8,10 +8,10 @@ Este roadmap organiza as entregas por camadas de evolução do projeto.
 
 - [x] Estrutura de pastas para backend e frontend
 - [x] ESLint e Prettier configurados
-- [x] Commitlint + Husky
-- [x] Docker + PostgreSQL com Docker Compose
-- [x] Prisma + Migrations
-- [ ] Testes automatizados básicos
+- [x] Testes automatizados básicos
+- [ ] Commitlint + Husky
+- [ ] Docker + PostgreSQL com Docker Compose
+- [ ] Prisma + Migrations
 - [ ] CI com GitHub Actions
 
 ---
